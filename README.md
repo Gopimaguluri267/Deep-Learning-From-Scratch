@@ -1,2 +1,3 @@
 # Deep-Learning-Optimized
-Deep Learning from scratch
+
+* Deep Learning from scratch
