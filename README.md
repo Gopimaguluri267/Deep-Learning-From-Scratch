@@ -2,6 +2,8 @@
 
 Implementation of deep learning algorithms and architectures from scratch using Python.
 
+(This repository reflects my understanding of core concepts — feedback and discussions are welcome!)
+
 
 ### [Neural Networks](neural_networks/)
 - Basic neural network components including linear layers and activation functions implemented using NumPy
